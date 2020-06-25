@@ -87,6 +87,7 @@ h5 {
     height:550px;
     display: flex;
     background-color:#c0c0c0 ;
+    
 }
 
 .nav {
@@ -140,7 +141,7 @@ h5 {
     flex-flow: row wrap;
     background-color:#a8ffff;
     margin:8px;
-   
+   overflow:scroll;
       }
   
  .card-img {
@@ -176,4 +177,7 @@ h4 {
 	font-size: 1em;
 	text-align: center;
 	background-color:#0080c0;
+}
+.resul{
+	
 }
